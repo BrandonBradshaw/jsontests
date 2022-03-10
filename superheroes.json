@@ -1,0 +1,39 @@
+{
+  "squadName": "Operations",
+  "homeTown": "Fenton",
+  "formed": 2022,
+  "secretBase": "Super tower",
+  "active": true,
+  "members": [
+    {
+      "name": "Hon",
+      "age": 18,
+      "secretIdentity": "Hon Furniture",
+      "powers": [
+        "Cycle Points",
+        "Hierachy",
+        "Gift Portal"
+      ]
+    },
+    {
+      "name": "KeyBank",
+      "age": 20,
+      "secretIdentity": "KeyBank",
+      "powers": [
+        "Recognition",
+        "Budgets",
+        "Termination GiftCards"
+      ]
+    },
+    {
+      "name": "Caesars",
+      "age": 25,
+      "secretIdentity": "Harrahs",
+      "powers": [
+        "Recgonition Employee",
+        "Budgets",
+        "Gift Portal"
+      ]
+    }
+  ]
+}
